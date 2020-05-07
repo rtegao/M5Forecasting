@@ -1,1 +1,1 @@
-\*\* Git repository for forecasting analysis
+\*\* Git repository for forecasting analysis, based on kaggle competition
